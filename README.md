@@ -1,6 +1,13 @@
 # -Sales-Trend-
 Analysis Using Aggregations
 
+
+# SQL Script:  
+ - <a href="https://github.com/SOUJIT-BAKSHI/-Sales-Trend-/blob/main/my_project.sql">SQL Dataset
+
+# SQL Output:  
+ - <a href="https://github.com/SOUJIT-BAKSHI/-Sales-Trend-/blob/main/Screenshot%202025-06-10%20211233.png">Output
+ 
 ✅ This gives a month-by-month breakdown of:
 
 📅 Month & Year
